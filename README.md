@@ -5,7 +5,7 @@ Data Structures and Algorithms
 #Closest Pair of Points using Divide and Conquer Algorithm
 Difficulty Level : Hard
 
-Last Updated : 14 June, 2021
+Acknowledgements : @prateekgupta10
 We are given an array of n points in the plane, and the problem is to find out the closest pair of points in the array. 
 This problem arises in a number of applications. For example, in air-traffic control, you may want to monitor planes that come too close together, since this may indicate a possible collision. 
 Recall the following formula for distance between two points p and q.
